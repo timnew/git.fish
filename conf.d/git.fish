@@ -6,7 +6,10 @@ abbr -a -U -- gco 'git checkout'
 
 abbr -a -U -- gst 'git status'
 
+abbr -a -U -- ga 'git add .'
+
 abbr -a -U -- gcm 'git commit --message'
+abbr -a -U -- gcma 'git commit --all --message'
 abbr -a -U -- gcf 'git commit --amend --reuse-message HEAD'
 
 abbr -a -U -- gpr 'git pull --rebase'
