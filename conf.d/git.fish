@@ -12,7 +12,7 @@ abbr -a -U -- gcm 'git commit --message'
 abbr -a -U -- gcma 'git commit --all --message'
 abbr -a -U -- gcf 'git commit --amend --reuse-message HEAD'
 
-abbr -a -U -- gpr 'git pull --rebase'
+abbr -a -U -- gfr 'git pull --rebase'
 
 abbr -a -U -- gp 'git push'
 abbr -a -U -- gpc 'git push --set-upstream origin "(git-branch-current 2> /dev/null)"'
