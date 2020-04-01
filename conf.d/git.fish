@@ -16,3 +16,5 @@ abbr -a -U -- gfr 'git pull --rebase'
 
 abbr -a -U -- gp 'git push'
 abbr -a -U -- gpc 'git push --set-upstream origin (git-current-branch 2> /dev/null)'
+
+abbr -a -U -- gbcm 'git-clean-merged'
