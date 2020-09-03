@@ -19,4 +19,4 @@ abbr -a -U -- gpc 'git push --set-upstream origin (git-current-branch 2> /dev/nu
 
 abbr -a -U -- gbcm 'git-clean-merged'
 abbr -a -U -- gbcq 'git-clean-squashed'
-abbr -a -U -- gbca 'gbcq; gbcm'
+abbr -a -U -- gbca 'git-clean-squashed; git-clean-merged'
