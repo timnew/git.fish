@@ -5,6 +5,7 @@ abbr -a -U -- gbc 'git checkout -b'
 abbr -a -U -- gco 'git checkout'
 
 abbr -a -U -- gst 'git status'
+abbr -a -U -- gstt 'git log --branches --graph  --oneline --simplify-by-decoration'
 
 abbr -a -U -- ga 'git add .'
 
