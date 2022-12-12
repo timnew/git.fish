@@ -1,6 +1,6 @@
 abbr -a -U -- g git
 
-abbr -a -U -- gb 'git branch'
+abbr -a -U -- gbr 'git branch'
 abbr -a -U -- gbc 'git checkout -b'
 abbr -a -U -- gco 'git checkout'
 
