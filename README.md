@@ -11,7 +11,7 @@ Install git
 With [fisherman]
 
 ```fish
-$ fisher add timnew/git.fish
+$ fisher install timnew/git.fish
 ```
 
 
