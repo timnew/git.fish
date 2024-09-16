@@ -14,6 +14,10 @@ abbr -a -- gcma 'git commit --all --message'
 abbr -a -- gcf 'git commit --amend --reuse-message HEAD'
 
 abbr -a -- gfr 'git pull --rebase'
+abbr -a -- gfrs 'git stash && git pull --rebase && git stash pop'
+
+abbr -a -- gsta 'git stash'
+abbr -a -- gstp 'git stash pop'
 
 abbr -a -- gp 'git push'
 abbr -a -- gpc 'git push --set-upstream origin (git-current-branch 2> /dev/null)'
